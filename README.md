@@ -18,27 +18,6 @@ C is widely used in various domains, including:
 - **Compilers and Interpreters**: Development of compilers and interpreters for other programming languages.
 - **Scientific Computing**: Numerical computations and simulations.
 
-## Getting Started
-
-To get started with the C programs in this repository, follow these steps:
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/your-username/c-programming-repo.git
-   cd c-programming-repo
-   ```
-
-2. **Compile the Programs**:
-   Use a C compiler like `gcc` to compile the programs. For example:
-   ```sh
-   gcc -o program_name source_file.c
-   ```
-
-3. **Run the Programs**:
-   Execute the compiled programs:
-   ```sh
-   ./program_name
-   ```
 
 ## Resources for Learning C
 
