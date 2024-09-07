@@ -1,4 +1,4 @@
-//program to find area/perimeter of rectangle
+//this program finds area/perimeter of rectangle
 #include"stdio.h"
 int main(){
 float l,b,ar,per;
