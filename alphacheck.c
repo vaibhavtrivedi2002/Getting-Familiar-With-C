@@ -1,4 +1,4 @@
-//this programs checks the input fiven by user is vowel or consonants
+//this programs checks the input given by user is vowel or consonants
 #include<stdio.h>
 int main(){
     char alpha;
